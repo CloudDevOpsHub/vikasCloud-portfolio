@@ -11,7 +11,7 @@ const About = () => {
         >
           <div>
             <div>
-              <img className="my-photo" src="assets/about.jpg" alt="" />
+              <img className="my-photo" src="assets/vk.png" alt="" />
             </div>
           </div>
         </div>
@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Steven
+                Vikas From
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Walker
+                CloudDevopsHub
               </span>
             </span>
           </h2>
@@ -36,7 +36,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Age :</span>
-                    <span>27 Years</span>
+                    <span>33 Years</span>
                   </span>
                 </span>
               </li>
@@ -44,7 +44,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Nationality :</span>
-                    <span>German</span>
+                    <span>Indian</span>
                   </span>
                 </span>
               </li>
@@ -70,15 +70,15 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
-                    <span>London</span>
+                    <span>Bangalore</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Phone :</span>
-                    <span>21 184 010</span>
+                    <span>Whatsapp :</span>
+                    <span>+91-9993445100</span>
                   </span>
                 </span>
               </li>
@@ -86,15 +86,15 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span>contact@steven.net</span>
+                    <span>clouddevopshub@gamil.com</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Skype :</span>
-                    <span>steven.walker</span>
+                    <span>Linkedin :</span>
+                    <span>CloudDevopsHub</span>
                   </span>
                 </span>
               </li>
@@ -104,97 +104,109 @@ const About = () => {
         {/* INFO ENDS */}
       </div>
       {/* INFO HOLDER ENDS */}
-      {/* SKILLS STARTS */}
-      <div className="skills flex-column-mobile">
-        {/* TITLE STARTS */}
-        <div className="custom-title">
-          {/* MAIN TITLE STARTS */}
-          <h3>
-            <span>
-              <span className="animated-layer fade-in-left-animation fadeInUp wow">
-                My Skills
-              </span>
-            </span>
-          </h3>
-          {/* MAIN TITLE ENDS */}
-        </div>
-        {/* TITLE ENDS */}
-        <div className="skills-content">
-          <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-wordpress-plain" />
-              </span>
-              <h4>WordPress</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-jquery-plain" />
-              </span>
-              <h4>jQuery</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-          </div>
-          <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-angularjs-plain" />
-              </span>
-              <h4>Angular JS</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-drupal-plain" />
-              </span>
-              <h4>Drupal</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-          </div>
-          <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-react-plain" />
-              </span>
-              <h4>React JS</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-docker-plain" />
-              </span>
-              <h4>Docker</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-          </div>
-          <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-nodejs-plain" />
-              </span>
-              <h4>Node JS</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-sass-plain" />
-              </span>
-              <h4>Sass</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-          </div>
-        </div>
+     {/* SKILLS STARTS */}
+<div className="skills flex-column-mobile">
+  {/* TITLE STARTS */}
+  <div className="custom-title">
+    <h3>
+      <span>
+        <span className="animated-layer fade-in-left-animation fadeInUp wow">
+          My Skills
+        </span>
+      </span>
+    </h3>
+  </div>
+  {/* TITLE ENDS */}
+  <div className="skills-content">
+    <div>
+      {/* SKILL ITEM STARTS */}
+      <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+        <span>
+          <i className="devicon-amazonwebservices-original" />
+        </span>
+        <h4>AWS</h4>
       </div>
-      {/* SKILLS ENDS */}
+      {/* SKILL ITEM ENDS */}
+      <div className="animated-layer fade-in-up-animation fadeInRight wow">
+        <span>
+          <i className="devicon-docker-plain" />
+        </span>
+        <h4>Docker</h4>
+      </div>
+    </div>
+
+    <div>
+      <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+        <span>
+          <i className="devicon-googlecloud-plain" />
+        </span>
+        <h4>GCP</h4>
+      </div>
+      <div className="animated-layer fade-in-up-animation fadeInRight wow">
+        <span>
+          <i className="devicon-kubernetes-plain" />
+        </span>
+        <h4>Kubernetes</h4>
+      </div>
+    </div>
+
+    <div>
+      <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+        <span>
+          <i className="devicon-azure-plain" />
+        </span>
+        <h4>Azure</h4>
+      </div>
+      <div className="animated-layer fade-in-up-animation fadeInRight wow">
+        <span>
+         
+            <i className="devicon-illustrator-plain" />
+          
+        </span>
+        <h4>AI</h4>
+      </div>
+    </div>
+
+    <div>
+      <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+        <span>
+          <i className="devicon-linux-plain" />
+        </span>
+        <h4>Linux</h4>
+      </div>
+      <div className="animated-layer fade-in-up-animation fadeInRight wow">
+        <span>
+          <i className="devicon-ansible-plain" />
+        </span>
+        <h4>Ansible</h4>
+      </div>
+    </div>
+
+    {/* NEW SKILL ROW */}
+    
+
+    <div>
+      <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+        <span>
+          <i className="devicon-jenkins-plain" />
+        </span>
+        <h4>Jenkins</h4>
+      </div>
+      <div className="animated-layer fade-in-up-animation fadeInRight wow">
+        <span>
+         
+            
+            <i class="devicon-terraform-plain"></i>
+          
+          
+         </span>
+        <h4>Terraform</h4>
+      </div>
+    </div>
+  </div>
+</div>
+{/* SKILLS ENDS */}
+
       {/* RESUME STARTS */}
       <div className="resume flex-column-mobile">
         {/* TITLE STARTS */}
@@ -203,7 +215,7 @@ const About = () => {
           <h3>
             <span>
               <span className="animated-layer fade-in-left-animation">
-                My Resume
+                My Experience
               </span>
             </span>
           </h3>
@@ -217,14 +229,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Project Manager</h4>
+                  <h4>Cloud & DevOps Architect</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2019 - Now</span>
+                    <span>2022 - Now</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Adobe Company</span>
+                    <span>PWC</span>
                   </p>
                 </div>
               </div>
@@ -234,14 +246,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Team Leader</h4>
+                  <h4>CLoud Consultant</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2015 - 2019</span>
+                    <span>2018 - 2022</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Twitter Inc</span>
+                    <span>Bank of America</span>
                   </p>
                 </div>
               </div>

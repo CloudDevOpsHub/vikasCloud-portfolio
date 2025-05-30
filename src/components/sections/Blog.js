@@ -19,24 +19,23 @@ const Blog = () => {
       <div className="latestposts flex-column-mobile">
         {/* POST ITEM STARTS */}
         <div className="animated-layer fade-in-right-animation fadeInUp wow">
-          <Link href="/blog-post" legacyBehavior>
+          <Link href="https://www.clouddevopshub.com/blog/the-ultimate-guide-to-devsecops-strengthening-security-in-your-devops-pipeline" legacyBehavior>
             <a>
               <span className="img-holder">
                 <img src="assets/blog/blog-post-1.jpg" alt="" />
               </span>
               <div className="content">
-                <span className="category">design</span>
+                <span className="category">DevSecOps</span>
                 <span className="title">
-                  How To Publish Content That Ranks On Google
+                 The Ultimate Guide to DevSecOps: Strengthening Security in Your DevOps Pipeline
                 </span>
                 <p>
-                  ncididunt ut labore et dolore magna aliqua. Ut enim aminim
-                  veniam...
+                 DevSecOps stands for Development, Security, and Operations. It is the practice of integrating ...
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-calendar" />
-                    <span>9 Apr 2022</span>
+                    <span>9 Apr 2025</span>
                   </div>
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-comments" />
@@ -50,24 +49,23 @@ const Blog = () => {
         {/* POST ITEM ENDS */}
         {/* POST ITEM STARTS */}
         <div className="animated-layer fade-in-right-animation fadeInUp wow">
-          <Link href="/blog-post" legacyBehavior>
+          <Link href="https://www.clouddevopshub.com/blog/ultimate-guide-to-docker-images" legacyBehavior>
             <a>
               <span className="img-holder">
                 <img src="assets/blog/blog-post-2.jpg" alt="" />
               </span>
               <div className="content">
-                <span className="category">development</span>
+                <span className="category">devops</span>
                 <span className="title">
-                  How Efficient Site Structure Can Boost SEO
+                 The Ultimate Guide to Docker Images: Creation, Containers, Advantages, Disadvantages, and Real-Time Use Cases
                 </span>
                 <p>
-                  ncididunt ut labore et dolore magna aliqua. Ut enim aminim
-                  veniam...
+                  A Docker image is a file used to execute code in a Docker container. Docker images act as a set of instructions...
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-calendar" />
-                    <span>21 Feb 2022</span>
+                    <span>7 Apr 2025</span>
                   </div>
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-comments" />
@@ -81,24 +79,23 @@ const Blog = () => {
         {/* POST ITEM ENDS */}
         {/* POST ITEM STARTS */}
         <div className="animated-layer fade-in-right-animation fadeInUp wow">
-          <Link href="/blog-post" legacyBehavior>
+          <Link href="https://www.clouddevopshub.com/blog/infrastructure-as-code-iac-aws-cdk-vs-terraform-which-one-is-right-for-you" legacyBehavior>
             <a>
               <span className="img-holder">
                 <img src="assets/blog/blog-post-3.jpg" alt="" />
               </span>
               <div className="content">
-                <span className="category">essentials</span>
+                <span className="category">Devops</span>
                 <span className="title">
-                  Change Management for Customer Success
+                 AWS Cloud Development Kit (CDK) vs. Terraform
                 </span>
                 <p>
-                  ncididunt ut labore et dolore magna aliqua. Ut enim aminim
-                  veniam...
+                  Infrastructure as Code (IaC) has transformed the way we manage cloud resources by automating provisioning...
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-calendar" />
-                    <span>1 Jan 2022</span>
+                    <span>10 Apr 2025</span>
                   </div>
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-comments" />

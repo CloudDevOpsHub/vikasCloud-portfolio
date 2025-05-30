@@ -7,34 +7,34 @@ const Copyright = () => {
         src="assets/separator-copyright.png"
       />
       <div>
-        <span>© {new Date().getFullYear()} Steven Walker</span>
+        <span>© {new Date().getFullYear()} Vikas</span>
         <span>
           Designed By{" "}
           <a
             target="_blank"
             href="https://themeforest.net/user/Codeefly/portfolio"
           >
-            Codeefly
+            CloudDevOpsHub
           </a>
         </span>
         <ul>
           <li>
-            <a href="#">
-              <i className="fa-brands fa-github" />
+            <a href="https://www.linkedin.com/in/clouddevopshub/">
+              <i className="fa-brands fa-linkedin" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <i className="fa-brands fa-twitter" />
+            <a href="https://www.instagram.com/clouddevopshub/">
+              <i className="fa-brands fa-instagram" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <i className="fa-brands fa-dribbble" />
+            <a href="https://www.youtube.com/@CloudDevOpsHub">
+              <i className="fa-brands fa-youtube" />
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.facebook.com/people/Clouddevopshub/100080218245041/">
               <i className="fa-brands fa-facebook" />
             </a>
           </li>

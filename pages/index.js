@@ -10,6 +10,7 @@ import Home from "@/src/components/sections/Home";
 import Portfolio from "@/src/components/sections/Portfolio";
 import Testimonials from "@/src/components/sections/Testimonials";
 import Separator from "@/src/components/Separator";
+import 'devicon/devicon.min.css';
 import { jqueryFuntion } from "@/src/utilits";
 import { Fragment, useEffect } from "react";
 const Index = () => {

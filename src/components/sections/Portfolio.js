@@ -13,7 +13,7 @@ const Portfolio = () => {
         <h3>
           <span>
             <span className="animated-layer fade-in-left-animation fadeInUp wow">
-              My Portfolio
+              Projects
             </span>
           </span>
         </h3>
@@ -38,14 +38,14 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Image Project</h4>
+            <h4>Developing e-commerce application using <br></br> microservice architecture</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Website</span>
+                  <span>DevOps Realtime project-1</span>
                 </li>
                 <li>
                   <span>
@@ -61,9 +61,9 @@ const Portfolio = () => {
                 </li>
                 <li>
                   <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                    <i className="fa-solid fa-code-branch" /> Tools :
                   </span>
-                  <span>WordPress</span>
+                  <span>Github, jenkins, CI-CD, Docker, Kubernetes, AWS</span>
                 </li>
               </ul>
             </div>
@@ -91,14 +91,14 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Youtube Project</h4>
+            <h4>Implementing CI-CD pipeline for Java Springboot Application</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Short Film</span>
+                  <span>DevOps Realtime project-2</span>
                 </li>
                 <li>
                   <span>
@@ -114,9 +114,9 @@ const Portfolio = () => {
                 </li>
                 <li>
                   <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                    <i className="fa-solid fa-code-branch" /> Tools :
                   </span>
-                  <span>After Effects</span>
+                  <span>Github, jenkins, CI-CD, Docker, Kubernetes, AWS</span>
                 </li>
               </ul>
             </div>
@@ -144,7 +144,7 @@ const Portfolio = () => {
                 <img src="assets/portfolio/project-3.jpg" title="img" />
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
-                <img src="assets/portfolio/project-1.jpg" title="img" />
+                <img src="assets/portfolio/microservice.webp" title="img" />
               </SwiperSlide>
               <div className="swiper-pagination" />
             </Swiper>
@@ -152,14 +152,14 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Slider Project</h4>
+            <h4>Provisioning and Managing 40 AWS resources <br></br>(EC2,VPC,ELB,Autoscaling,RDS,EIP,<br></br>Subnets,etc.) using terraform</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Mobile App</span>
+                  <span>DevOps Realtime project-3</span>
                 </li>
                 <li>
                   <span>
@@ -175,9 +175,9 @@ const Portfolio = () => {
                 </li>
                 <li>
                   <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                    <i className="fa-solid fa-code-branch" /> Tools :
                   </span>
-                  <span>React JS</span>
+                  <span>AWS, EC2, VPC, ELB, Autoscaling, RDS, EIP, Subnets</span>
                 </li>
               </ul>
             </div>
@@ -209,14 +209,14 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>External Link</h4>
+            <h4>Deployment of Book My Show App<br></br>DevSecOps Real-time Project</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Advertising</span>
+                  <span>DevOps Realtime project-4</span>
                 </li>
                 <li>
                   <span>
@@ -232,9 +232,9 @@ const Portfolio = () => {
                 </li>
                 <li>
                   <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                    <i className="fa-solid fa-code-branch" /> Tools :
                   </span>
-                  <span>Adobe Premiere</span>
+                  <span>Github, jenkins, Sonarqube, Trivy, CI-CD, Docker, Kubernetes, Prometheus, Grafana</span>
                 </li>
               </ul>
             </div>

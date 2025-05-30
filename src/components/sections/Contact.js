@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone</span>
-              +216 21 184 010
+              +91-9993445100
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">address</span>
-              London, England
+              Bangalore<br></br>& Indore
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              contact@steven.net
+              clouddevopshub@gamil.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -52,23 +52,23 @@ const Contact = () => {
             <span className="small-text">follow me</span>
             <ul className="social">
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-github" />
+                <a href="https://www.linkedin.com/in/clouddevopshub/">
+                  <i className="fa-brands fa-linkedin" />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-twitter" />
+                <a href="https://www.instagram.com/clouddevopshub/">
+                  <i className="fa-brands fa-instagram" />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-dribbble" />
+                <a href="https://www.youtube.com/@CloudDevOpsHub">
+                  <i className="fa-brands fa-youtube" />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-facebook" />
+                <a href="https://api.whatsapp.com/send/?phone=919993445100&text&type=phone_number&app_absent=0">
+                  <i className="fa-brands fa-whatsapp" />
                 </a>
               </li>
             </ul>
