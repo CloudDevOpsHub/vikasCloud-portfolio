@@ -69,9 +69,9 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>15+</h3>
+              <h3>100+</h3>
               <p>
-                Tools &<span>Technologies</span>
+                Tools &<span>POC's</span>
               </p>
             </div>
           </div>

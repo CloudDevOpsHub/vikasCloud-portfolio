@@ -12,7 +12,7 @@ const Home = () => {
             <span className="position-relative">
               <span className="animated-layer">I am</span>
               <span className="intro animated-layer">
-                Multicloud + DevOps with AI Architect | Mentor| Entrepreneur with 14+ Years of experience
+                Multicloud + DevOps with AI Architect | Mentor | Entrepreneur with 14+ Years of experience
               </span>
             </span>
             <span>

@@ -14,29 +14,13 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/themeforest-dark-background.png"
+                src="assets/logos/themeforest.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/photodune-dark-background.png"
-                alt="client"
-              />
-            </div>
-          </SwiperSlide>
-          {/* SWIPER ITEM ENDS */}
-          {/* SWIPER ITEM STARTS */}
-          <SwiperSlide className="swiper-slide">
-            <div>
-              <img
-                src="assets/logos/graphicriver-dark-background.png"
-                alt="client"
-              />
-            </div>
-            <div>
-              <img
-                src="assets/logos/codecanyon-dark-background.png"
+                src="assets/logos/photodune.png"
                 alt="client"
               />
             </div>
@@ -46,29 +30,13 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/audiojungle-dark-background.png"
+                src="assets/logos/graphicriver.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/activeden-dark-background.png"
-                alt="client"
-              />
-            </div>
-          </SwiperSlide>
-          {/* SWIPER ITEM ENDS */}
-          {/* SWIPER ITEM STARTS */}
-          <SwiperSlide className="swiper-slide">
-            <div>
-              <img
-                src="assets/logos/3docean-dark-background.png"
-                alt="client"
-              />
-            </div>
-            <div>
-              <img
-                src="assets/logos/themeforest-dark-background.png"
+                src="assets/logos/codecanyon.png"
                 alt="client"
               />
             </div>
@@ -78,13 +46,13 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/activeden-dark-background.png"
+                src="assets/logos/audiojungle.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/audiojungle-dark-background.png"
+                src="assets/logos/activeden.png"
                 alt="client"
               />
             </div>
@@ -94,13 +62,45 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/graphicriver-dark-background.png"
+                src="assets/logos/graphicriver.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/codecanyon-dark-background.png"
+                src="assets/logos/themeforest.png"
+                alt="client"
+              />
+            </div>
+          </SwiperSlide>
+          {/* SWIPER ITEM ENDS */}
+          {/* SWIPER ITEM STARTS */}
+          <SwiperSlide className="swiper-slide">
+            <div>
+              <img
+                src="assets/logos/activeden.png"
+                alt="client"
+              />
+            </div>
+            <div>
+              <img
+                src="assets/logos/audiojungle.png"
+                alt="client"
+              />
+            </div>
+          </SwiperSlide>
+          {/* SWIPER ITEM ENDS */}
+          {/* SWIPER ITEM STARTS */}
+          <SwiperSlide className="swiper-slide">
+            <div>
+              <img
+                src="assets/logos/graphicriver.png"
+                alt="client"
+              />
+            </div>
+            <div>
+              <img
+                src="assets/logos/codecanyon.png"
                 alt="client"
               />
             </div>

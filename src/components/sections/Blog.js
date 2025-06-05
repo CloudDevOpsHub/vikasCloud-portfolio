@@ -8,7 +8,7 @@ const Blog = () => {
         <h3>
           <span>
             <span className="animated-layer fade-in-left-animation fadeInUp wow">
-              Latest Posts
+              Latest Blogs
             </span>
           </span>
         </h3>
@@ -22,7 +22,7 @@ const Blog = () => {
           <Link href="https://www.clouddevopshub.com/blog/the-ultimate-guide-to-devsecops-strengthening-security-in-your-devops-pipeline" legacyBehavior>
             <a>
               <span className="img-holder">
-                <img src="assets/blog/blog-post-1.jpg" alt="" />
+                <img src="assets/blog/devsecop.webp" alt="" />
               </span>
               <div className="content">
                 <span className="category">DevSecOps</span>
@@ -52,7 +52,7 @@ const Blog = () => {
           <Link href="https://www.clouddevopshub.com/blog/ultimate-guide-to-docker-images" legacyBehavior>
             <a>
               <span className="img-holder">
-                <img src="assets/blog/blog-post-2.jpg" alt="" />
+                <img src="assets/blog/docker2.png" alt="" />
               </span>
               <div className="content">
                 <span className="category">devops</span>
@@ -82,7 +82,7 @@ const Blog = () => {
           <Link href="https://www.clouddevopshub.com/blog/infrastructure-as-code-iac-aws-cdk-vs-terraform-which-one-is-right-for-you" legacyBehavior>
             <a>
               <span className="img-holder">
-                <img src="assets/blog/blog-post-3.jpg" alt="" />
+                <img src="assets/blog/AWS.jpg" alt="" />
               </span>
               <div className="content">
                 <span className="category">Devops</span>

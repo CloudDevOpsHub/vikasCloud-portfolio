@@ -13,7 +13,7 @@ I was already a devops engineer but joined this course to get project i joined t
               <span className="person">Kumar Utkarsh</span>
               <span className="job">Placed in Atlassian</span>
             </p>
-            <img src="assets/testimonials/testimonial-1.jpg" alt="" />
+            <img src="assets/testimonials/reddy.png" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}
@@ -29,7 +29,7 @@ I have joined the course with vikas sir in batch 27 live sessions conducted alwa
               <span className="person">Aman Makrani</span>
               <span className="job">Placed in Accenture</span>
             </p>
-            <img src="assets/testimonials/testimonial-2.jpg" alt="" />
+            <img src="assets/testimonials/aman.png" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}
@@ -43,7 +43,7 @@ I have joined the course with vikas sir in batch 27 live sessions conducted alwa
               <span className="person">Suchandra Reddy</span>
               <span className="job">Placed in Capgemini</span>
             </p>
-            <img src="assets/testimonials/testimonial-2.jpg" alt="" />
+            <img src="assets/testimonials/dhar.png" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}

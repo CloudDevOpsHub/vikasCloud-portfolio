@@ -30,34 +30,43 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT STARTS */}
           <div className="main-content">
             <img
-              className="img-fluid"
-              src="assets/portfolio/project-1.jpg"
-              alt="Image Project"
-            />
+  className="img-fluid"
+  src="assets/portfolio/micro.jpg"
+  alt="External Project"
+  style={{
+    width: "100%",
+    height: "auto",
+    maxWidth: "100%",
+    borderRadius: "12px", // optional, for rounded corners
+    display: "block",
+    objectFit: "contain", // ensures the whole image fits without cropping
+}}
+/>
+
           </div>
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Developing e-commerce application using <br></br> microservice architecture</h4>
+            <h4>DevOps project-1</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>DevOps Realtime project-1</span>
+                  <span>Developing e-commerce application using microservice architecture</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Envato</span>
+                  <span>Google</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>3 months</span>
+                  <span>1 hour</span>
                 </li>
                 <li>
                   <span>
@@ -67,7 +76,7 @@ const Portfolio = () => {
                 </li>
               </ul>
             </div>
-            <a href="#" target="_blank" className="custom-btn">
+            <a href="https://github.com/GoogleCloudPlatform/microservices-demo" target="_blank" className="custom-btn">
               <span>
                 preview <i className="fa-solid fa-arrow-up-right-from-square" />
               </span>
@@ -81,36 +90,47 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT STARTS */}
           <div className="main-content">
             <div className="videocontainer">
-              <iframe
-                className="youtube-video"
-                src="https://www.youtube.com/embed/AqcjdkPMPJA?enablejsapi=1&version=3&playerapiid=ytplayer"
-                allowFullScreen=""
-              />
+        <iframe
+  className="youtube-video"
+  src="https://www.youtube.com/embed/NhLA7xD3fwI"
+  allowFullScreen
+  style={{
+    width: "100%",
+    height: "400px", // You can adjust this to "300px", "500px", etc.
+    border: "none",
+    borderRadius: "12px", // Optional: for rounded corners
+    display: "block",
+    maxWidth: "100%",
+    objectFit: "contain",
+  }}
+/>
+
+
             </div>
           </div>
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Implementing CI-CD pipeline for Java Springboot Application</h4>
+            <h4>DevOps project-2</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>DevOps Realtime project-2</span>
+                  <span>Implementing CI-CD pipeline for Java Springboot<br></br> Application</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Videohive</span>
+                  <span>Google</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>8 months</span>
+                  <span>1 hour</span>
                 </li>
                 <li>
                   <span>
@@ -132,46 +152,51 @@ const Portfolio = () => {
         {/* PORTFOLIO ITEM STARTS */}
         <SwiperSlide className="single-item swiper-slide">
           {/* ITEM MAIN CONTENT STARTS */}
-          <div className="main-content">
-            <Swiper
-              {...salimovSlider.portfolioItems}
-              className="swiper swiper-portfolio-item"
+           <div className="main-content">
+            <a
+              href="https://themeforest.net"
+              target="_blank"
+              className="external"
             >
-              <SwiperSlide className="swiper-slide">
-                <img src="assets/portfolio/project-2.jpg" title="img" />
-              </SwiperSlide>
-              <SwiperSlide className="swiper-slide">
-                <img src="assets/portfolio/project-3.jpg" title="img" />
-              </SwiperSlide>
-              <SwiperSlide className="swiper-slide">
-                <img src="assets/portfolio/microservice.webp" title="img" />
-              </SwiperSlide>
-              <div className="swiper-pagination" />
-            </Swiper>
+              <img
+  className="img-fluid"
+  src="assets/portfolio/awsservices.jpg"
+  alt="External Project"
+  style={{
+    width: "100%",
+    height: "auto",
+    maxWidth: "100%",
+    borderRadius: "12px", // optional, for rounded corners
+    display: "block",
+    objectFit: "contain", // ensures the whole image fits without cropping
+}}
+/>
+
+            </a>
           </div>
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Provisioning and Managing 40 AWS resources <br></br>(EC2,VPC,ELB,Autoscaling,RDS,EIP,<br></br>Subnets,etc.) using terraform</h4>
+            <h4>DevOps project-3</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>DevOps Realtime project-3</span>
+                  <span>Provisioned and managed 40+ AWS resources <br></br>(EC2, VPC, ELB, Auto Scaling, RDS, etc.) using Terraform.</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Codecanyon</span>
+                  <span>AWS</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>3 months</span>
+                  <span>1 hour</span>
                 </li>
                 <li>
                   <span>
@@ -200,35 +225,44 @@ const Portfolio = () => {
               className="external"
             >
               <img
-                className="img-fluid"
-                src="assets/portfolio/project-3.jpg"
-                alt="External Project"
-              />
+  className="img-fluid"
+  src="assets/portfolio/devsecops2 (2).png"
+  alt="External Project"
+  style={{
+    width: "100%",
+    height: "auto",
+    maxWidth: "100%",
+    borderRadius: "12px", // optional, for rounded corners
+    display: "block",
+    objectFit: "contain", // ensures the whole image fits without cropping
+}}
+/>
+
             </a>
           </div>
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Deployment of Book My Show App<br></br>DevSecOps Real-time Project</h4>
+            <h4>DevOps project-4</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>DevOps Realtime project-4</span>
+                  <span>Deployment of Book My Show App using DevSecOps practices</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Envato</span>
+                  <span>AWS</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>1 month</span>
+                  <span>1 hour</span>
                 </li>
                 <li>
                   <span>
