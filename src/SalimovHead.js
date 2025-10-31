@@ -5,6 +5,8 @@ const SalimovHead = () => {
       <title>Vikas Founder of CloudDevOpsHub</title>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      {/* Favicon / Browser Tab Icon */}
+      <link rel="icon" href="/assets/favicon.jpg" type="image/jpeg" />
       {/* Template Google Fonts */}
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
